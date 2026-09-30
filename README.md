@@ -4,7 +4,8 @@ A passionate Computer Science student from Israel at HIT.
 
 - 💻 Ask me about Python, C, C++, Data Structures, and Machine Learning.
 - 📬 How to reach me: [noya.adivi@gmail.com](mailto:noya.adivi@gmail.com)
-- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/noya-adivi) <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
+- 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/noya-adivi)
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
 
 ### Languages and Tools:
 <p>
