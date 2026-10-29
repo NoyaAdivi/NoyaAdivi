@@ -17,37 +17,37 @@
 ### 🛠️ Tech Stack
 
 <p><b>Languages</b><br>
-<a href="#"><img src="https://img.shields.io/badge/Python-a9d6f5?style=for-the-badge&logo=python&logoColor=3f6d9f"></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-a9d6f5?style=for-the-badge&logo=typescript&logoColor=3f6d9f"></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-a9d6f5?style=for-the-badge&logo=javascript&logoColor=3f6d9f"></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-a9d6f5?style=for-the-badge&logo=openjdk&logoColor=3f6d9f"></a>
-<a href="#"><img src="https://img.shields.io/badge/C++-a9d6f5?style=for-the-badge&logo=cplusplus&logoColor=3f6d9f"></a>
-<a href="#"><img src="https://img.shields.io/badge/C-a9d6f5?style=for-the-badge&logo=c&logoColor=3f6d9f"></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-a9d6f5?style=for-the-badge&logo=postgresql&logoColor=3f6d9f"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-a9d6f5?style=for-the-badge&logo=python&logoColor=3f6d9f"></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-a9d6f5?style=for-the-badge&logo=typescript&logoColor=3f6d9f"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-a9d6f5?style=for-the-badge&logo=javascript&logoColor=3f6d9f"></a>
+<a href="https://dev.java"><img src="https://img.shields.io/badge/Java-a9d6f5?style=for-the-badge&logo=openjdk&logoColor=3f6d9f"></a>
+<a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-a9d6f5?style=for-the-badge&logo=cplusplus&logoColor=3f6d9f"></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-a9d6f5?style=for-the-badge&logo=c&logoColor=3f6d9f"></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-a9d6f5?style=for-the-badge&logo=postgresql&logoColor=3f6d9f"></a>
 </p>
 
 <p><b>Web & Databases</b><br>
-<a href="#"><img src="https://img.shields.io/badge/React-cbbcf4?style=for-the-badge&logo=react&logoColor=5b4a9e"></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-cbbcf4?style=for-the-badge&logo=nextdotjs&logoColor=5b4a9e"></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-cbbcf4?style=for-the-badge&logo=postgresql&logoColor=5b4a9e"></a>
-<a href="#"><img src="https://img.shields.io/badge/Supabase-cbbcf4?style=for-the-badge&logo=supabase&logoColor=5b4a9e"></a>
-<a href="#"><img src="https://img.shields.io/badge/Firebase-cbbcf4?style=for-the-badge&logo=firebase&logoColor=5b4a9e"></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-cbbcf4?style=for-the-badge&logo=bootstrap&logoColor=5b4a9e"></a>
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-cbbcf4?style=for-the-badge&logo=react&logoColor=5b4a9e"></a>
+<a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-cbbcf4?style=for-the-badge&logo=nextdotjs&logoColor=5b4a9e"></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-cbbcf4?style=for-the-badge&logo=postgresql&logoColor=5b4a9e"></a>
+<a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-cbbcf4?style=for-the-badge&logo=supabase&logoColor=5b4a9e"></a>
+<a href="https://firebase.google.com"><img src="https://img.shields.io/badge/Firebase-cbbcf4?style=for-the-badge&logo=firebase&logoColor=5b4a9e"></a>
+<a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-cbbcf4?style=for-the-badge&logo=bootstrap&logoColor=5b4a9e"></a>
 </p>
 
 <p><b>Data & ML</b><br>
-<a href="#"><img src="https://img.shields.io/badge/PyTorch-a9e3cd?style=for-the-badge&logo=pytorch&logoColor=2f7a5c"></a>
-<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-a9e3cd?style=for-the-badge&logo=scikitlearn&logoColor=2f7a5c"></a>
-<a href="#"><img src="https://img.shields.io/badge/Pandas-a9e3cd?style=for-the-badge&logo=pandas&logoColor=2f7a5c"></a>
-<a href="#"><img src="https://img.shields.io/badge/NumPy-a9e3cd?style=for-the-badge&logo=numpy&logoColor=2f7a5c"></a>
+<a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-a9e3cd?style=for-the-badge&logo=pytorch&logoColor=2f7a5c"></a>
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--Learn-a9e3cd?style=for-the-badge&logo=scikitlearn&logoColor=2f7a5c"></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-a9e3cd?style=for-the-badge&logo=pandas&logoColor=2f7a5c"></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-a9e3cd?style=for-the-badge&logo=numpy&logoColor=2f7a5c"></a>
 </p>
 
 <p><b>Tools</b><br>
-<a href="#"><img src="https://img.shields.io/badge/Git-f8c8b6?style=for-the-badge&logo=git&logoColor=a0503a"></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-f8c8b6?style=for-the-badge&logo=linux&logoColor=a0503a"></a>
-<a href="#"><img src="https://img.shields.io/badge/Android_Studio-f8c8b6?style=for-the-badge&logo=androidstudio&logoColor=a0503a"></a>
-<a href="#"><img src="https://img.shields.io/badge/VS_Code-f8c8b6?style=for-the-badge&logo=vscodium&logoColor=a0503a"></a>
-<a href="#"><img src="https://img.shields.io/badge/Wireshark-f8c8b6?style=for-the-badge&logo=wireshark&logoColor=a0503a"></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-f8c8b6?style=for-the-badge&logo=git&logoColor=a0503a"></a>
+<a href="https://www.kernel.org"><img src="https://img.shields.io/badge/Linux-f8c8b6?style=for-the-badge&logo=linux&logoColor=a0503a"></a>
+<a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-f8c8b6?style=for-the-badge&logo=androidstudio&logoColor=a0503a"></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-f8c8b6?style=for-the-badge&logo=vscodium&logoColor=a0503a"></a>
+<a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Wireshark-f8c8b6?style=for-the-badge&logo=wireshark&logoColor=a0503a"></a>
 </p>
 
 ### 🚀 Featured Projects
