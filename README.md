@@ -3,7 +3,7 @@
 3rd-year Computer Science student at HIT who enjoys building complete, working software - from database to deployment.
 
 - 🗺️ Latest project: **[Okeat](https://okeat.vercel.app)** - a community-verified map of nearly 20,000 kosher, vegan and gluten-free eateries across Israel
-  ![Okeat](okeat_linkedin.png)
+  ![Okeat](okeat.png)
 - 🧠 Interests: Full-Stack Development, Machine Learning, Computer Networks
 - 🌐 Portfolio: [noyaadivi.github.io/noya-website](https://noyaadivi.github.io/noya-website)
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/noya-adivi/)
