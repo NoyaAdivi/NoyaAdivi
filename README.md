@@ -3,10 +3,10 @@
 3rd-year Computer Science student at HIT who enjoys building complete, working software - from database to deployment.
 
 ### 🌸 A bit about me
-- 🧠 Into Full-Stack Development, Machine Learning and Computer Networks
-- ⚡ Fast learner who loves turning ideas into real products
+- 🧠 Into Full-Stack Development, Machine Learning and Computer Networks.
+- ⚡ Fast learner who loves turning ideas into real products.
 - 🌐 Portfolio: [noyaadivi.github.io/noya-website](https://noyaadivi.github.io/noya-website)
-- 🗺️ Built **[Okeat](https://okeat.vercel.app)** - a community-verified map of nearly 20,000 kosher, vegan & gluten-free eateries across Israel
+- 🗺️ Built **[Okeat](https://okeat.vercel.app)** - a community-verified map of nearly 20,000 kosher, vegan & gluten-free eateries across Israel.
 
 <p align="center">
   <a href="https://okeat.vercel.app">
