@@ -6,7 +6,7 @@
 - 🧠 Into Full-Stack Development, Machine Learning and Computer Networks.
 - ⚡ Fast learner who loves turning ideas into real products.
 - 🌐 Portfolio: [noyaadivi.github.io/noya-website](https://noyaadivi.github.io/noya-website)
-- 🗺️ Built **[Okeat](https://okeat.vercel.app)** - a community-verified map of nearly 20,000 kosher, vegan & gluten-free eateries across Israel.
+- 🗺️ Built **[Okeat](https://okeat.vercel.app)** - a community-verified map of over 20,000 kosher, vegan, vegetarian & gluten-free eateries across Israel.
 
 <p align="center">
   <a href="https://okeat.vercel.app">
