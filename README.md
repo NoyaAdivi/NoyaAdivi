@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://noyaadivi.github.io/noya-website">
-    <img src="banner.svg" width="100%" alt="Noya Adivi, Software Engineering Student">
+    <img src="banner.svg" width="100%" alt="Noya Adivi, Computer Science Student">
   </a>
 </p>
 
 <p align="center">
   3rd-year Computer Science student at HIT who enjoys building complete, working software - from database to deployment.<br>
+  <b>Looking for a Software Engineering student position.</b>
 </p>
 
 <br>
