@@ -53,7 +53,7 @@
 ### 🚀 Featured Projects
 | Project | What it is | Stack |
 |---|---|---|
-| 🗺️ [Okeat](https://github.com/NoyaAdivi/Okeat) | Community-verified dietary food map · [live](https://okeat.vercel.app) | Next.js · Supabase · Mapbox |
+| 🗺️ [Okeat](https://github.com/NoyaAdivi/Okeat) | Community-verified dietary food map with smart search, moderation and admin tools · [live](https://okeat.vercel.app) | Next.js · Supabase · Mapbox |
 | 🖼️ [Sort Photos](https://github.com/NoyaAdivi/sort-photos) | Offline AI photo classifier | Python · PyTorch · CLIP |
 | 🎭 [Emotion Detection](https://github.com/NoyaAdivi/emotion_detection_ml) | Naive Bayes from scratch for 6 emotions | Python · Scikit-Learn |
 | 💬 [TCP Chat](https://github.com/NoyaAdivi/Networking-project) | Multi-client chat + Wireshark analysis | Python · Sockets |
