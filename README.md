@@ -6,7 +6,6 @@
 
 <p align="center">
   3rd-year Computer Science student at HIT who enjoys building complete, working software - from database to deployment.<br>
-  <b>Looking for a Software Engineering student position.</b>
 </p>
 
 <br>
