@@ -6,7 +6,11 @@
 - 🧠 Into Full-Stack Development, Machine Learning and Computer Networks.
 - ⚡ Fast learner who loves turning ideas into real products.
 - 🌐 Portfolio: [noyaadivi.github.io/noya-website](https://noyaadivi.github.io/noya-website)
-- 🗺️ Built **[Okeat](https://okeat.vercel.app)** - a community-verified map of over 20,000 kosher, vegan, vegetarian & gluten-free eateries across Israel.
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🗺️ [Okeat](https://github.com/NoyaAdivi/Okeat) | Bilingual map of 20,000+ eateries, with verification rules enforced in the database · [live](https://okeat.vercel.app) | Next.js · PostGIS · Mapbox |
+| 🏨 [DiviStay](https://github.com/NoyaAdivi/DiviStay) | Group hotel booking with payment splitting, from UML to a live site · [live](https://divistay.onrender.com) | Java · Spring Boot · Docker |
 
 <p align="center">
   <a href="https://okeat.vercel.app">
