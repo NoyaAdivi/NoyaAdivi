@@ -67,11 +67,13 @@
   <code>Java 21</code> · <code>Spring Boot 3</code> · <code>Thymeleaf</code> · <code>JUnit 5</code> · <code>Docker</code> · <code>Render</code> · <code>UML</code> · <code>Design Patterns</code>
 </p>
 
-<br>
+<p align="center">
+  <img src="more-pinned.svg" height="38" alt="More projects pinned below">
+</p>
 
-<p align="center"><sub>More projects are pinned below 👇</sub></p>
-
-<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="tech-title.svg" width="100%" alt="Tech Stack">
+</p>
 
 <p align="center"><b>Languages</b><br>
 <a href="https://dev.java"><img src="https://img.shields.io/badge/Java-CFE6FA?style=for-the-badge&logo=openjdk&logoColor=3F6D9F" alt="Java"></a>
