@@ -11,6 +11,12 @@
 
 <br>
 
+<p align="center">
+  <img src="projects-title.svg" width="100%" alt="Featured Projects">
+</p>
+
+<br>
+
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" width="34" alt=""> Okeat
 </h2>
@@ -32,7 +38,7 @@
 </p>
 
 <p align="center">
-  <code>Next.js</code> · <code>TypeScript</code> · <code>PostgreSQL + PostGIS</code> · <code>Supabase</code> · <code>Mapbox</code>
+  <code>Next.js 15</code> · <code>React 19</code> · <code>TypeScript</code> · <code>PostgreSQL + PostGIS</code> · <code>Supabase</code> · <code>Mapbox GL</code> · <code>Tesseract OCR</code> · <code>Claude API</code> · <code>GitHub Actions</code>
 </p>
 
 <br>
@@ -58,7 +64,7 @@
 </p>
 
 <p align="center">
-  <code>Java</code> · <code>Spring Boot</code> · <code>Docker</code> · <code>UML</code> · <code>Design Patterns</code>
+  <code>Java 21</code> · <code>Spring Boot 3</code> · <code>Thymeleaf</code> · <code>JUnit 5</code> · <code>Docker</code> · <code>Render</code> · <code>UML</code> · <code>Design Patterns</code>
 </p>
 
 <br>
@@ -68,30 +74,37 @@
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center"><b>Languages</b><br>
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-CFE6FA?style=for-the-badge&logo=python&logoColor=3F6D9F" alt="Python"></a>
-<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-CFE6FA?style=for-the-badge&logo=typescript&logoColor=3F6D9F" alt="TypeScript"></a>
 <a href="https://dev.java"><img src="https://img.shields.io/badge/Java-CFE6FA?style=for-the-badge&logo=openjdk&logoColor=3F6D9F" alt="Java"></a>
+<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-CFE6FA?style=for-the-badge&logo=typescript&logoColor=3F6D9F" alt="TypeScript"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-CFE6FA?style=for-the-badge&logo=python&logoColor=3F6D9F" alt="Python"></a>
 <a href="https://isocpp.org"><img src="https://img.shields.io/badge/C++-CFE6FA?style=for-the-badge&logo=cplusplus&logoColor=3F6D9F" alt="C++"></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-CFE6FA?style=for-the-badge&logo=c&logoColor=3F6D9F" alt="C"></a>
 <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-CFE6FA?style=for-the-badge&logo=postgresql&logoColor=3F6D9F" alt="SQL"></a>
 </p>
 
-<p align="center"><b>Web &amp; Databases</b><br>
-<a href="https://react.dev"><img src="https://img.shields.io/badge/React-DAD5FF?style=for-the-badge&logo=react&logoColor=5548C8" alt="React"></a>
+<p align="center"><b>Web &amp; Backend</b><br>
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-DAD5FF?style=for-the-badge&logo=nextdotjs&logoColor=5548C8" alt="Next.js"></a>
+<a href="https://react.dev"><img src="https://img.shields.io/badge/React-DAD5FF?style=for-the-badge&logo=react&logoColor=5548C8" alt="React"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-DAD5FF?style=for-the-badge&logo=springboot&logoColor=5548C8" alt="Spring Boot"></a>
-<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-DAD5FF?style=for-the-badge&logo=postgresql&logoColor=5548C8" alt="PostgreSQL"></a>
-<a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-DAD5FF?style=for-the-badge&logo=supabase&logoColor=5548C8" alt="Supabase"></a>
+</p>
+
+<p align="center"><b>Databases &amp; Cloud</b><br>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-FBD5E0?style=for-the-badge&logo=postgresql&logoColor=A03A5C" alt="PostgreSQL"></a>
+<a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-FBD5E0?style=for-the-badge&logo=supabase&logoColor=A03A5C" alt="Supabase"></a>
+<a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-FBD5E0?style=for-the-badge&logo=vercel&logoColor=A03A5C" alt="Vercel"></a>
 </p>
 
 <p align="center"><b>Data &amp; ML</b><br>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-BFEBD9?style=for-the-badge&logo=pytorch&logoColor=1F7350" alt="PyTorch"></a>
-<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--Learn-BFEBD9?style=for-the-badge&logo=scikitlearn&logoColor=1F7350" alt="Scikit--Learn"></a>
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--Learn-BFEBD9?style=for-the-badge&logo=scikitlearn&logoColor=1F7350" alt="Scikit-Learn"></a>
 </p>
 
 <p align="center"><b>Tools</b><br>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-FFD5C9?style=for-the-badge&logo=git&logoColor=A8483A" alt="Git"></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-FFD5C9?style=for-the-badge&logo=githubactions&logoColor=A8483A" alt="GitHub Actions"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-FFD5C9?style=for-the-badge&logo=docker&logoColor=A8483A" alt="Docker"></a>
+<a href="https://junit.org"><img src="https://img.shields.io/badge/JUnit_5-FFD5C9?style=for-the-badge&logo=junit5&logoColor=A8483A" alt="JUnit 5"></a>
+<a href="https://www.mapbox.com"><img src="https://img.shields.io/badge/Mapbox-FFD5C9?style=for-the-badge&logo=mapbox&logoColor=A8483A" alt="Mapbox"></a>
 <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/Linux-FFD5C9?style=for-the-badge&logo=linux&logoColor=A8483A" alt="Linux"></a>
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Wireshark-FFD5C9?style=for-the-badge&logo=wireshark&logoColor=A8483A" alt="Wireshark"></a>
 </p>
@@ -103,6 +116,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noya-adivi/"><img src="https://img.shields.io/badge/LinkedIn-BFEBD9?style=for-the-badge&logo=linkedin&logoColor=1F7350" alt="LinkedIn"></a>
-  <a href="https://noyaadivi.github.io/noya-website"><img src="https://img.shields.io/badge/Portfolio-DAD5FF?style=for-the-badge&logo=googlechrome&logoColor=5548C8" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/noya-adivi/"><img src="btn-linkedin.svg" height="42" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://noyaadivi.github.io/noya-website"><img src="btn-portfolio.svg" height="42" alt="Portfolio"></a>
 </p>
