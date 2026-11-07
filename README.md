@@ -12,13 +12,15 @@
 <br>
 
 <p align="center">
-  <img src="projects-title.svg" width="100%" alt="Featured Projects">
+  <a href="https://github.com/NoyaAdivi?tab=repositories">
+    <img src="projects-title.svg" width="100%" alt="Featured Projects">
+  </a>
 </p>
 
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" width="34" alt=""> Okeat
+  <a href="https://okeat.vercel.app"><img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" width="34" alt=""> Okeat</a>
 </h2>
 
 <p align="center">
@@ -44,7 +46,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/logo.png" width="34" alt=""> DiviStay
+  <a href="https://divistay.onrender.com"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/logo.png" width="34" alt=""> DiviStay</a>
 </h2>
 
 <p align="center">
@@ -54,7 +56,7 @@
 
 <p align="center">
   <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.jpg" width="520" alt="DiviStay home page">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.jpg" width="800" alt="DiviStay home page">
   </a>
 </p>
 
@@ -72,7 +74,9 @@
 </p>
 
 <p align="center">
-  <img src="tech-title.svg" width="100%" alt="Tech Stack">
+  <a href="https://github.com/NoyaAdivi">
+    <img src="tech-title.svg" width="100%" alt="Tech Stack">
+  </a>
 </p>
 
 <p align="center"><b>Languages</b><br>
@@ -114,7 +118,9 @@
 <br>
 
 <p align="center">
-  <img src="footer.svg" width="100%" alt="Let's talk">
+  <a href="https://noyaadivi.github.io/noya-website">
+    <img src="footer.svg" width="100%" alt="Let's talk">
+  </a>
 </p>
 
 <p align="center">
