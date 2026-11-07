@@ -70,7 +70,9 @@
 </p>
 
 <p align="center">
-  <img src="more-pinned.svg" height="38" alt="More projects pinned below">
+  <a href="https://github.com/NoyaAdivi?tab=repositories">
+    <img src="more-pinned.svg" height="38" alt="More projects pinned below">
+  </a>
 </p>
 
 <p align="center">
