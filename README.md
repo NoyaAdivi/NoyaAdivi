@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://okeat.vercel.app">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/okeat.png" width="700" alt="Okeat home page and nationwide map">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/Banner.png" width="700" alt="Okeat home page and nationwide map">
   </a>
 </p>
 
