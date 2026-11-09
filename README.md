@@ -9,19 +9,12 @@
   <b>Looking for a Software Engineering student position.</b>
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/NoyaAdivi?tab=repositories">
-    <img src="projects-title.svg" width="100%" alt="Featured Projects">
-  </a>
+  <a name="featured-projects"></a>
+  <a href="#featured-projects"><img src="projects-title.svg" width="100%" alt="Featured Projects"></a>
 </p>
 
-<br>
-
-<h2 align="center">
-  <a href="https://okeat.vercel.app"><img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" width="34" alt=""> Okeat</a>
-</h2>
+<h2 align="center"><a href="https://okeat.vercel.app"><img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" height="38" align="center" alt=""></a> Okeat</h2>
 
 <p align="center">
   <b>OK to eat.</b> A bilingual map of 20,000+ kosher, vegan, vegetarian and gluten-free eateries across Israel,<br>
@@ -43,11 +36,7 @@
   <code>Next.js 15</code> · <code>React 19</code> · <code>TypeScript</code> · <code>PostgreSQL + PostGIS</code> · <code>Supabase</code> · <code>Mapbox GL</code> · <code>Tesseract OCR</code> · <code>Claude API</code> · <code>GitHub Actions</code>
 </p>
 
-<br>
-
-<h2 align="center">
-  <a href="https://divistay.onrender.com"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/logo.png" width="34" alt=""> DiviStay</a>
-</h2>
+<h2 align="center"><a href="https://divistay.onrender.com"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/logo.png" height="38" align="center" alt=""></a> DiviStay</h2>
 
 <p align="center">
   <b>Book together, pay separately.</b> Group hotel booking with payment splitting,<br>
@@ -56,7 +45,7 @@
 
 <p align="center">
   <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.png" width="800" alt="DiviStay home page">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.jpg" width="520" alt="DiviStay home page">
   </a>
 </p>
 
@@ -70,15 +59,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoyaAdivi?tab=repositories">
-    <img src="more-pinned.svg" height="38" alt="More projects pinned below">
-  </a>
+  <a name="more-projects"></a>
+  <a href="#more-projects"><img src="more-pinned.svg" height="38" alt="More projects pinned below"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NoyaAdivi">
-    <img src="tech-title.svg" width="100%" alt="Tech Stack">
-  </a>
+  <a name="tech-stack"></a>
+  <a href="#tech-stack"><img src="tech-title.svg" width="100%" alt="Tech Stack"></a>
 </p>
 
 <p align="center"><b>Languages</b><br>
@@ -117,12 +104,9 @@
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Wireshark-FFD5C9?style=for-the-badge&logo=wireshark&logoColor=A8483A" alt="Wireshark"></a>
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://noyaadivi.github.io/noya-website">
-    <img src="footer.svg" width="100%" alt="Let's talk">
-  </a>
+  <a name="lets-talk"></a>
+  <a href="#lets-talk"><img src="footer.svg" width="100%" alt="Let's talk"></a>
 </p>
 
 <p align="center">
