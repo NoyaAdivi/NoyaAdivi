@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://okeat.vercel.app">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/okeat.png" width="800" alt="Okeat home page and nationwide map">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/okeat.png" width="700" alt="Okeat home page and nationwide map">
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.png" width="520" alt="DiviStay home page">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.png" width="700" alt="DiviStay home page">
   </a>
 </p>
 
