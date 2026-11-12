@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/NoyaAdivi/NoyaAdivi/blob/main/README.he.md"><img src="lang-he.svg" height="44" alt="לגרסה בעברית"></a>
+</p>
+
+<p align="center">
   3rd-year Computer Science student at HIT who enjoys building complete, working software - from database to deployment.<br>
   <b>Looking for a Software Engineering student position.</b>
 </p>
@@ -60,7 +64,22 @@
 
 <p align="center">
   <a name="more-projects"></a>
-  <a href="#more-projects"><img src="more-pinned.svg" height="38" alt="More projects pinned below"></a>
+  <a href="#more-projects"><img src="more-title.svg" width="100%" alt="More Projects"></a>
+</p>
+
+<table>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-en.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>Offline AI photo classifier with CLIP</sub><br><code>Python · PyTorch · CLIP</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/emotion_detection_ml"><img src="https://raw.githubusercontent.com/NoyaAdivi/emotion_detection_ml/main/docs/readme/banner-en.svg" width="100%" alt="🎭 Emotion Detection"></a><br><b><a href="https://github.com/NoyaAdivi/emotion_detection_ml">🎭 Emotion Detection</a></b><br><sub>Naive Bayes from scratch for 6 emotions</sub><br><code>Python · Scikit-Learn</code></td>
+  </tr>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-en.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project">💬 TCP Chat</a></b><br><sub>Multi-client chat with Wireshark analysis</sub><br><code>Python · Sockets · Wireshark</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay_Architecture"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay_Architecture/main/docs/readme/banner-en.svg" width="100%" alt="📐 DiviStay Architecture"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay_Architecture">📐 DiviStay Architecture</a></b><br><sub>Requirements, UML and design patterns</sub><br><code>SRS · UML · OOD</code></td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/NoyaAdivi?tab=repositories"><img src="all-repos.svg" height="44" alt="See all repositories"></a>
 </p>
 
 <p align="center">
