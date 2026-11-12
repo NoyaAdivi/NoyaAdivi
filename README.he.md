@@ -17,7 +17,7 @@
 
 <p align="center">
   <a name="featured-projects"></a>
-  <a href="#featured-projects"><img src="projects-title-he.svg" width="100%" alt="פרויקטים נבחרים"></a>
+  <a href="https://noyaadivi.github.io/noya-website/#projects"><img src="projects-title-he.svg" width="100%" alt="פרויקטים נבחרים"></a>
 </p>
 
 <h2 align="center"><a href="https://okeat.vercel.app"><img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" height="38" align="center" alt="Okeat"></a> Okeat</h2>
@@ -66,7 +66,7 @@
 
 <p align="center">
   <a name="more-projects"></a>
-  <a href="#more-projects"><img src="more-title-he.svg" width="100%" alt="עוד פרויקטים"></a>
+  <a href="https://github.com/NoyaAdivi?tab=repositories"><img src="more-title-he.svg" width="100%" alt="עוד פרויקטים"></a>
 </p>
 
 <table>
@@ -76,7 +76,7 @@
   </tr>
   <tr valign="top">
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-he.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project/blob/main/README.he.md">💬 TCP Chat</a></b><br><sub>צ'אט לכמה משתמשים עם ניתוח Wireshark</sub><br><code>Python · Sockets · Wireshark</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay_Architecture/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay_Architecture/main/docs/readme/banner-he.svg" width="100%" alt="📐 DiviStay Architecture"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay_Architecture/blob/main/README.he.md">📐 DiviStay Architecture</a></b><br><sub>דרישות, UML ותבניות עיצוב</sub><br><code>SRS · UML · OOD</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/HaMivchanon/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/HaMivchanon/main/docs/readme/banner-he.svg" width="100%" alt="📱 HaMivchanon"></a><br><b><a href="https://github.com/NoyaAdivi/HaMivchanon/blob/main/README.he.md">📱 HaMivchanon</a></b><br><sub>אפליקציית אנדרואיד ללמידה עם תזכורות חכמות</sub><br><code>Java · Android · Firebase</code></td>
   </tr>
 </table>
 
@@ -86,7 +86,7 @@
 
 <p align="center">
   <a name="tech-stack"></a>
-  <a href="#tech-stack"><img src="tech-title-he.svg" width="100%" alt="הכלים שלי"></a>
+  <a href="https://noyaadivi.github.io/noya-website/#skills"><img src="tech-title-he.svg" width="100%" alt="הכלים שלי"></a>
 </p>
 
 <p align="center"><b>שפות</b><br>
@@ -127,7 +127,7 @@
 
 <p align="center">
   <a name="lets-talk"></a>
-  <a href="#lets-talk"><img src="footer-he.svg" width="100%" alt="בואו נדבר"></a>
+  <a href="https://www.linkedin.com/in/noya-adivi/"><img src="footer-he.svg" width="100%" alt="בואו נדבר"></a>
 </p>
 
 <p align="center">

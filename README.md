@@ -15,7 +15,7 @@
 
 <p align="center">
   <a name="featured-projects"></a>
-  <a href="#featured-projects"><img src="projects-title.svg" width="100%" alt="Featured Projects"></a>
+  <a href="https://noyaadivi.github.io/noya-website/#projects"><img src="projects-title.svg" width="100%" alt="Featured Projects"></a>
 </p>
 
 <h2 align="center"><a href="https://okeat.vercel.app"><img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/public/icon-192.png" height="38" align="center" alt=""></a> Okeat</h2>
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a name="more-projects"></a>
-  <a href="#more-projects"><img src="more-title.svg" width="100%" alt="More Projects"></a>
+  <a href="https://github.com/NoyaAdivi?tab=repositories"><img src="more-title.svg" width="100%" alt="More Projects"></a>
 </p>
 
 <table>
@@ -74,7 +74,7 @@
   </tr>
   <tr valign="top">
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-en.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project">💬 TCP Chat</a></b><br><sub>Multi-client chat with Wireshark analysis</sub><br><code>Python · Sockets · Wireshark</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay_Architecture"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay_Architecture/main/docs/readme/banner-en.svg" width="100%" alt="📐 DiviStay Architecture"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay_Architecture">📐 DiviStay Architecture</a></b><br><sub>Requirements, UML and design patterns</sub><br><code>SRS · UML · OOD</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/HaMivchanon"><img src="https://raw.githubusercontent.com/NoyaAdivi/HaMivchanon/main/docs/readme/banner-en.svg" width="100%" alt="📱 HaMivchanon"></a><br><b><a href="https://github.com/NoyaAdivi/HaMivchanon">📱 HaMivchanon</a></b><br><sub>Android study app with smart reminders</sub><br><code>Java · Android · Firebase</code></td>
   </tr>
 </table>
 
@@ -84,7 +84,7 @@
 
 <p align="center">
   <a name="tech-stack"></a>
-  <a href="#tech-stack"><img src="tech-title.svg" width="100%" alt="Tech Stack"></a>
+  <a href="https://noyaadivi.github.io/noya-website/#skills"><img src="tech-title.svg" width="100%" alt="Tech Stack"></a>
 </p>
 
 <p align="center"><b>Languages</b><br>
@@ -125,7 +125,7 @@
 
 <p align="center">
   <a name="lets-talk"></a>
-  <a href="#lets-talk"><img src="footer.svg" width="100%" alt="Let's talk"></a>
+  <a href="https://www.linkedin.com/in/noya-adivi/"><img src="footer.svg" width="100%" alt="Let's talk"></a>
 </p>
 
 <p align="center">
