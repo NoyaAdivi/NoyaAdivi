@@ -74,7 +74,7 @@
   </tr>
   <tr valign="top">
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-en.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project">💬 TCP Chat</a></b><br><sub>Multi-client chat with Wireshark analysis</sub><br><code>Python · Sockets · Wireshark</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/HaMivchanon"><img src="https://raw.githubusercontent.com/NoyaAdivi/HaMivchanon/main/docs/readme/banner-en.svg" width="100%" alt="📱 HaMivchanon"></a><br><b><a href="https://github.com/NoyaAdivi/HaMivchanon">📱 HaMivchanon</a></b><br><sub>Android study app with smart reminders</sub><br><code>Java · Android · Firebase</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/noya-website"><img src="https://raw.githubusercontent.com/NoyaAdivi/noya-website/main/docs/readme/banner-en.svg" width="100%" alt="🌐 Portfolio Website"></a><br><b><a href="https://github.com/NoyaAdivi/noya-website">🌐 Portfolio Website</a></b><br><sub>My bilingual portfolio with dark mode and accessibility</sub><br><code>HTML · CSS · JavaScript</code></td>
   </tr>
 </table>
 

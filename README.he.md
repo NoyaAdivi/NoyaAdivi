@@ -76,7 +76,7 @@
   </tr>
   <tr valign="top">
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-he.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project/blob/main/README.he.md">💬 TCP Chat</a></b><br><sub>צ'אט לכמה משתמשים עם ניתוח Wireshark</sub><br><code>Python · Sockets · Wireshark</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/HaMivchanon/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/HaMivchanon/main/docs/readme/banner-he.svg" width="100%" alt="📱 HaMivchanon"></a><br><b><a href="https://github.com/NoyaAdivi/HaMivchanon/blob/main/README.he.md">📱 HaMivchanon</a></b><br><sub>אפליקציית אנדרואיד ללמידה עם תזכורות חכמות</sub><br><code>Java · Android · Firebase</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/noya-website/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/noya-website/main/docs/readme/banner-he.svg" width="100%" alt="🌐 Portfolio Website"></a><br><b><a href="https://github.com/NoyaAdivi/noya-website/blob/main/README.he.md">🌐 Portfolio Website</a></b><br><sub>תיק העבודות שלי בעברית ובאנגלית, עם מצב כהה ונגישות</sub><br><code>HTML · CSS · JavaScript</code></td>
   </tr>
 </table>
 
