@@ -69,12 +69,16 @@
 
 <table>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-en.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>Offline AI photo classifier with CLIP</sub><br><code>Python · PyTorch · CLIP</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/emotion_detection_ml"><img src="https://raw.githubusercontent.com/NoyaAdivi/emotion_detection_ml/main/docs/readme/banner-en.svg" width="100%" alt="🎭 Emotion Detection"></a><br><b><a href="https://github.com/NoyaAdivi/emotion_detection_ml">🎭 Emotion Detection</a></b><br><sub>Naive Bayes from scratch for 6 emotions</sub><br><code>Python · Scikit-Learn</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-en.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens">📸 Okeat Lens</a></b><br><sub>Food recognition model for 101 dishes</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/LeakLens"><img src="https://raw.githubusercontent.com/NoyaAdivi/LeakLens/main/docs/readme/banner-en.svg" width="100%" alt="🔐 LeakLens"></a><br><b><a href="https://github.com/NoyaAdivi/LeakLens">🔐 LeakLens</a></b><br><sub>Privacy-first REST API for password checks</sub><br><code>Python · FastAPI · Docker</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-en.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project">💬 TCP Chat</a></b><br><sub>Multi-client chat with Wireshark analysis</sub><br><code>Python · Sockets · Wireshark</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/noya-website"><img src="https://raw.githubusercontent.com/NoyaAdivi/noya-website/main/docs/readme/banner-en.svg" width="100%" alt="🌐 Portfolio Website"></a><br><b><a href="https://github.com/NoyaAdivi/noya-website">🌐 Portfolio Website</a></b><br><sub>My bilingual portfolio with dark mode and accessibility</sub><br><code>HTML · CSS · JavaScript</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/splitship"><img src="https://raw.githubusercontent.com/NoyaAdivi/splitship/main/docs/readme/banner-en.svg" width="100%" alt="🚢 SplitShip"></a><br><b><a href="https://github.com/NoyaAdivi/splitship">🚢 SplitShip</a></b><br><sub>Bill splitting API with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-en.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>Finds exact and near-duplicate photos</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
+  </tr>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/nudgy-bot"><img src="https://raw.githubusercontent.com/NoyaAdivi/nudgy-bot/main/docs/readme/banner-en.svg" width="100%" alt="🔔 Nudgy"></a><br><b><a href="https://github.com/NoyaAdivi/nudgy-bot">🔔 Nudgy</a></b><br><sub>Bilingual Telegram bot for deadlines</sub><br><code>Python · Telegram API · SQLite</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/FocusBloom"><img src="https://raw.githubusercontent.com/NoyaAdivi/FocusBloom/main/docs/readme/banner-en.svg" width="100%" alt="🌸 FocusBloom"></a><br><b><a href="https://github.com/NoyaAdivi/FocusBloom">🌸 FocusBloom</a></b><br><sub>Pomodoro Chrome extension that blocks distractions</sub><br><code>JavaScript · Manifest V3</code></td>
   </tr>
 </table>
 
@@ -100,6 +104,8 @@
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-DAD5FF?style=for-the-badge&logo=nextdotjs&logoColor=5548C8" alt="Next.js"></a>
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-DAD5FF?style=for-the-badge&logo=react&logoColor=5548C8" alt="React"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-DAD5FF?style=for-the-badge&logo=springboot&logoColor=5548C8" alt="Spring Boot"></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-DAD5FF?style=for-the-badge&logo=fastapi&logoColor=5548C8" alt="FastAPI"></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-DAD5FF?style=for-the-badge&logo=nodedotjs&logoColor=5548C8" alt="Node.js"></a>
 </p>
 
 <p align="center"><b>Databases &amp; Cloud</b><br>
@@ -111,6 +117,7 @@
 <p align="center"><b>Data &amp; ML</b><br>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-BFEBD9?style=for-the-badge&logo=pytorch&logoColor=1F7350" alt="PyTorch"></a>
 <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--Learn-BFEBD9?style=for-the-badge&logo=scikitlearn&logoColor=1F7350" alt="Scikit-Learn"></a>
+<a href="https://onnx.ai"><img src="https://img.shields.io/badge/ONNX-BFEBD9?style=for-the-badge&logo=onnx&logoColor=1F7350" alt="ONNX"></a>
 </p>
 
 <p align="center"><b>Tools</b><br>
@@ -118,6 +125,7 @@
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-FFD5C9?style=for-the-badge&logo=githubactions&logoColor=A8483A" alt="GitHub Actions"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-FFD5C9?style=for-the-badge&logo=docker&logoColor=A8483A" alt="Docker"></a>
 <a href="https://junit.org"><img src="https://img.shields.io/badge/JUnit_5-FFD5C9?style=for-the-badge&logo=junit5&logoColor=A8483A" alt="JUnit 5"></a>
+<a href="https://pytest.org"><img src="https://img.shields.io/badge/pytest-FFD5C9?style=for-the-badge&logo=pytest&logoColor=A8483A" alt="pytest"></a>
 <a href="https://www.mapbox.com"><img src="https://img.shields.io/badge/Mapbox-FFD5C9?style=for-the-badge&logo=mapbox&logoColor=A8483A" alt="Mapbox"></a>
 <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/Linux-FFD5C9?style=for-the-badge&logo=linux&logoColor=A8483A" alt="Linux"></a>
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Wireshark-FFD5C9?style=for-the-badge&logo=wireshark&logoColor=A8483A" alt="Wireshark"></a>

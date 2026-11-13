@@ -71,12 +71,16 @@
 
 <table>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-he.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos/blob/main/README.he.md">🖼️ Sort Photos</a></b><br><sub>מסווג תמונות AI עם CLIP, בלי אינטרנט</sub><br><code>Python · PyTorch · CLIP</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/emotion_detection_ml/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/emotion_detection_ml/main/docs/readme/banner-he.svg" width="100%" alt="🎭 Emotion Detection"></a><br><b><a href="https://github.com/NoyaAdivi/emotion_detection_ml/blob/main/README.he.md">🎭 Emotion Detection</a></b><br><sub>Naive Bayes מאפס לזיהוי 6 רגשות</sub><br><code>Python · Scikit-Learn</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-he.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens/blob/main/README.he.md">📸 Okeat Lens</a></b><br><sub>מודל לזיהוי 101 מנות מתמונה</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/LeakLens/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/LeakLens/main/docs/readme/banner-he.svg" width="100%" alt="🔐 LeakLens"></a><br><b><a href="https://github.com/NoyaAdivi/LeakLens/blob/main/README.he.md">🔐 LeakLens</a></b><br><sub>REST API לבדיקת סיסמאות ששומר על הפרטיות</sub><br><code>Python · FastAPI · Docker</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/Networking-project/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/Networking-project/main/docs/readme/banner-he.svg" width="100%" alt="💬 TCP Chat"></a><br><b><a href="https://github.com/NoyaAdivi/Networking-project/blob/main/README.he.md">💬 TCP Chat</a></b><br><sub>צ'אט לכמה משתמשים עם ניתוח Wireshark</sub><br><code>Python · Sockets · Wireshark</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/noya-website/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/noya-website/main/docs/readme/banner-he.svg" width="100%" alt="🌐 Portfolio Website"></a><br><b><a href="https://github.com/NoyaAdivi/noya-website/blob/main/README.he.md">🌐 Portfolio Website</a></b><br><sub>תיק העבודות שלי בעברית ובאנגלית, עם מצב כהה ונגישות</sub><br><code>HTML · CSS · JavaScript</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/splitship/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/splitship/main/docs/readme/banner-he.svg" width="100%" alt="🚢 SplitShip"></a><br><b><a href="https://github.com/NoyaAdivi/splitship/blob/main/README.he.md">🚢 SplitShip</a></b><br><sub>API לחלוקת חשבון עם CI/CD מלא</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-he.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins/blob/main/README.he.md">👯 Photo Twins</a></b><br><sub>מוצא תמונות כפולות ודומות</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
+  </tr>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/nudgy-bot/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/nudgy-bot/main/docs/readme/banner-he.svg" width="100%" alt="🔔 Nudgy"></a><br><b><a href="https://github.com/NoyaAdivi/nudgy-bot/blob/main/README.he.md">🔔 Nudgy</a></b><br><sub>בוט טלגרם דו-לשוני שמזכיר דדליינים</sub><br><code>Python · Telegram API · SQLite</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/FocusBloom/blob/main/README.he.md"><img src="https://raw.githubusercontent.com/NoyaAdivi/FocusBloom/main/docs/readme/banner-he.svg" width="100%" alt="🌸 FocusBloom"></a><br><b><a href="https://github.com/NoyaAdivi/FocusBloom/blob/main/README.he.md">🌸 FocusBloom</a></b><br><sub>תוסף כרום של פומודורו שחוסם הסחות דעת</sub><br><code>JavaScript · Manifest V3</code></td>
   </tr>
 </table>
 
@@ -102,6 +106,8 @@
 <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next.js-DAD5FF?style=for-the-badge&logo=nextdotjs&logoColor=5548C8" alt="Next.js"></a>
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-DAD5FF?style=for-the-badge&logo=react&logoColor=5548C8" alt="React"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-DAD5FF?style=for-the-badge&logo=springboot&logoColor=5548C8" alt="Spring Boot"></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-DAD5FF?style=for-the-badge&logo=fastapi&logoColor=5548C8" alt="FastAPI"></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-DAD5FF?style=for-the-badge&logo=nodedotjs&logoColor=5548C8" alt="Node.js"></a>
 </p>
 
 <p align="center"><b>מסדי נתונים וענן</b><br>
@@ -113,6 +119,7 @@
 <p align="center"><b>נתונים ולמידת מכונה</b><br>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-BFEBD9?style=for-the-badge&logo=pytorch&logoColor=1F7350" alt="PyTorch"></a>
 <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/Scikit--Learn-BFEBD9?style=for-the-badge&logo=scikitlearn&logoColor=1F7350" alt="Scikit-Learn"></a>
+<a href="https://onnx.ai"><img src="https://img.shields.io/badge/ONNX-BFEBD9?style=for-the-badge&logo=onnx&logoColor=1F7350" alt="ONNX"></a>
 </p>
 
 <p align="center"><b>כלים</b><br>
@@ -120,6 +127,7 @@
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-FFD5C9?style=for-the-badge&logo=githubactions&logoColor=A8483A" alt="GitHub Actions"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-FFD5C9?style=for-the-badge&logo=docker&logoColor=A8483A" alt="Docker"></a>
 <a href="https://junit.org"><img src="https://img.shields.io/badge/JUnit_5-FFD5C9?style=for-the-badge&logo=junit5&logoColor=A8483A" alt="JUnit 5"></a>
+<a href="https://pytest.org"><img src="https://img.shields.io/badge/pytest-FFD5C9?style=for-the-badge&logo=pytest&logoColor=A8483A" alt="pytest"></a>
 <a href="https://www.mapbox.com"><img src="https://img.shields.io/badge/Mapbox-FFD5C9?style=for-the-badge&logo=mapbox&logoColor=A8483A" alt="Mapbox"></a>
 <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/Linux-FFD5C9?style=for-the-badge&logo=linux&logoColor=A8483A" alt="Linux"></a>
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Wireshark-FFD5C9?style=for-the-badge&logo=wireshark&logoColor=A8483A" alt="Wireshark"></a>
