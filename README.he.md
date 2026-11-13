@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://okeat.vercel.app">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/Banner-he.png" width="700" alt="דף הבית והמפה הארצית של Okeat">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/Okeat/main/docs/images/Banner-he.png" width="700" alt="דף הבית והמפה הארצית של Okeat">
   </a>
 </p>
 
