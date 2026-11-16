@@ -69,20 +69,20 @@
 
 <table>
   <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-en.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>Split any bill per dish, with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-en.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens">📸 Okeat Lens</a></b><br><sub>Food recognition model for 101 dishes</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
+  </tr>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/kashuv"><img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/readme/banner-en.svg" width="100%" alt="🎧 Kashuv"></a><br><b><a href="https://github.com/NoyaAdivi/kashuv">🎧 Kashuv</a></b><br><sub>Live Zoom transcription and smart summaries, 100% local</sub><br><code>Python · Whisper · Ollama · Flask</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/LeakLens"><img src="https://raw.githubusercontent.com/NoyaAdivi/LeakLens/main/docs/readme/banner-en.svg" width="100%" alt="🔐 LeakLens"></a><br><b><a href="https://github.com/NoyaAdivi/LeakLens">🔐 LeakLens</a></b><br><sub>Privacy-first REST API for password checks</sub><br><code>Python · FastAPI · Docker</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-en.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>Split any bill per dish, with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/kashuv"><img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/readme/banner-en.svg" width="100%" alt="🎧 Kashuv"></a><br><b><a href="https://github.com/NoyaAdivi/kashuv">🎧 Kashuv</a></b><br><sub>Live Zoom transcription and smart summaries, 100% local</sub><br><code>Python · Whisper · Ollama · Flask</code></td>
-  </tr>
-  <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/nudgy-bot"><img src="https://raw.githubusercontent.com/NoyaAdivi/nudgy-bot/main/docs/readme/banner-en.svg" width="100%" alt="🔔 Nudgy"></a><br><b><a href="https://github.com/NoyaAdivi/nudgy-bot">🔔 Nudgy</a></b><br><sub>Bilingual Telegram bot for deadlines</sub><br><code>Python · Telegram API · SQLite</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-en.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>Offline AI photo classifier with CLIP</sub><br><code>Python · OpenCLIP · PyTorch</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-en.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>Finds exact and near-duplicate photos</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-en.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>Finds exact and near-duplicate photos</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/FocusBloom"><img src="https://raw.githubusercontent.com/NoyaAdivi/FocusBloom/main/docs/readme/banner-en.svg" width="100%" alt="🌸 FocusBloom"></a><br><b><a href="https://github.com/NoyaAdivi/FocusBloom">🌸 FocusBloom</a></b><br><sub>Pomodoro Chrome extension that blocks distractions</sub><br><code>JavaScript · Manifest V3</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/nudgy-bot"><img src="https://raw.githubusercontent.com/NoyaAdivi/nudgy-bot/main/docs/readme/banner-en.svg" width="100%" alt="🔔 Nudgy"></a><br><b><a href="https://github.com/NoyaAdivi/nudgy-bot">🔔 Nudgy</a></b><br><sub>Bilingual Telegram bot for deadlines</sub><br><code>Python · Telegram API · SQLite</code></td>
   </tr>
 </table>
 
