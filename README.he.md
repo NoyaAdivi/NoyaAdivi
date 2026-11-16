@@ -42,26 +42,26 @@
   <code>Next.js 15</code> · <code>React 19</code> · <code>TypeScript</code> · <code>PostgreSQL + PostGIS</code> · <code>Supabase</code> · <code>Mapbox GL</code> · <code>Tesseract OCR</code> · <code>Claude API</code> · <code>GitHub Actions</code>
 </p>
 
-<h2 align="center"><a href="https://divistay.onrender.com"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/logo.png" height="38" align="center" alt="DiviStay"></a> DiviStay</h2>
+<h2 align="center"><a href="https://noyaadivi.github.io/kashuv/">🎧</a> Kashuv</h2>
 
 <p align="center">
-  <b>מזמינים יחד, כל אחד משלם לבד.</b> הזמנת מלון קבוצתית עם פיצול תשלום,<br>
-  מתכנון UML וארכיטקטורה ועד אתר חי.
+  <b>מקשיבה איתך.</b> תמלול חי בעברית של זום ושיעורים, התראה כשאומרים את השם שלך,<br>
+  וסיכום חכם של כל הרצאה, הכול רץ על המחשב שלך בלי ענן ובלי עלות.
 </p>
 
 <p align="center">
-  <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot-he.png" width="700" alt="דף הבית של DiviStay">
+  <a href="https://noyaadivi.github.io/kashuv/">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/images/Banner-he.jpg" width="700" alt="המסכים של Kashuv">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://divistay.onrender.com"><img src="https://img.shields.io/badge/%D7%9C%D7%90%D7%AA%D7%A8_%D7%94%D7%97%D7%99-FFD5C9?style=for-the-badge&logo=googlechrome&logoColor=A8483A" alt="לאתר החי"></a>
-  <a href="https://github.com/NoyaAdivi/DiviStay/blob/main/README.he.md"><img src="https://img.shields.io/badge/%D7%9C%D7%A7%D7%95%D7%93-DAD5FF?style=for-the-badge&logo=github&logoColor=5548C8" alt="לקוד"></a>
+  <a href="https://noyaadivi.github.io/kashuv/"><img src="https://img.shields.io/badge/%D7%9C%D7%93%D7%9E%D7%95_%D7%94%D7%97%D7%99-FFD5C9?style=for-the-badge&logo=googlechrome&logoColor=A8483A" alt="לדמו החי"></a>
+  <a href="https://github.com/NoyaAdivi/kashuv/blob/main/README.he.md"><img src="https://img.shields.io/badge/%D7%9C%D7%A7%D7%95%D7%93-DAD5FF?style=for-the-badge&logo=github&logoColor=5548C8" alt="לקוד"></a>
 </p>
 
 <p align="center">
-  <code>Java 21</code> · <code>Spring Boot 3</code> · <code>Thymeleaf</code> · <code>JUnit 5</code> · <code>Docker</code> · <code>Render</code> · <code>UML</code> · <code>Design Patterns</code>
+  <code>Python</code> · <code>Flask</code> · <code>faster-whisper</code> · <code>ivrit.ai</code> · <code>Ollama (local LLM)</code> · <code>WASAPI</code> · <code>pytest</code>
 </p>
 
 <p align="center">
@@ -71,20 +71,20 @@
 
 <table>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-he.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>חלוקת כל חשבון לפי מנות, עם CI/CD מלא</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/banner-he.svg" width="100%" alt="🏨 DiviStay"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay">🏨 DiviStay</a></b><br><sub>הזמנת מלון קבוצתית עם פיצול תשלום, Spring Boot</sub><br><code>Java · Spring Boot · JUnit · Docker</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-he.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens">📸 Okeat Lens</a></b><br><sub>מודל לזיהוי 101 מנות מתמונה</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/kashuv"><img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/readme/banner-he.svg" width="100%" alt="🎧 Kashuv"></a><br><b><a href="https://github.com/NoyaAdivi/kashuv">🎧 Kashuv</a></b><br><sub>תמלול זום חי וסיכומים חכמים, הכל במחשב</sub><br><code>Python · Whisper · Ollama · Flask</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-he.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>חלוקת כל חשבון לפי מנות, עם CI/CD מלא</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/LeakLens"><img src="https://raw.githubusercontent.com/NoyaAdivi/LeakLens/main/docs/readme/banner-he.svg" width="100%" alt="🔐 LeakLens"></a><br><b><a href="https://github.com/NoyaAdivi/LeakLens">🔐 LeakLens</a></b><br><sub>REST API לבדיקת סיסמאות ששומר על הפרטיות</sub><br><code>Python · FastAPI · Docker</code></td>
-  </tr>
-  <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-he.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>מסווג תמונות AI שעובד בלי אינטרנט</sub><br><code>Python · OpenCLIP · PyTorch</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-he.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>מוצא תמונות זהות ודומות</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
   </tr>
   <tr valign="top">
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/FocusBloom"><img src="https://raw.githubusercontent.com/NoyaAdivi/FocusBloom/main/docs/readme/banner-he.svg" width="100%" alt="🌸 FocusBloom"></a><br><b><a href="https://github.com/NoyaAdivi/FocusBloom">🌸 FocusBloom</a></b><br><sub>תוסף כרום של פומודורו שחוסם הסחות דעת</sub><br><code>JavaScript · Manifest V3</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/nudgy-bot"><img src="https://raw.githubusercontent.com/NoyaAdivi/nudgy-bot/main/docs/readme/banner-he.svg" width="100%" alt="🔔 Nudgy"></a><br><b><a href="https://github.com/NoyaAdivi/nudgy-bot">🔔 Nudgy</a></b><br><sub>בוט טלגרם דו-לשוני שמזכיר דדליינים</sub><br><code>Python · Telegram API · SQLite</code></td>
+  </tr>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-he.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>מוצא תמונות זהות ודומות</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-he.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>מסווג תמונות AI שעובד בלי אינטרנט</sub><br><code>Python · OpenCLIP · PyTorch</code></td>
   </tr>
 </table>
 
@@ -112,12 +112,14 @@
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-DAD5FF?style=for-the-badge&logo=springboot&logoColor=5548C8" alt="Spring Boot"></a>
 <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-DAD5FF?style=for-the-badge&logo=fastapi&logoColor=5548C8" alt="FastAPI"></a>
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-DAD5FF?style=for-the-badge&logo=nodedotjs&logoColor=5548C8" alt="Node.js"></a>
+<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-DAD5FF?style=for-the-badge&logo=flask&logoColor=5548C8" alt="Flask"></a>
 </p>
 
 <p align="center"><b>מסדי נתונים וענן</b><br>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-FBD5E0?style=for-the-badge&logo=postgresql&logoColor=A03A5C" alt="PostgreSQL"></a>
 <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-FBD5E0?style=for-the-badge&logo=supabase&logoColor=A03A5C" alt="Supabase"></a>
 <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-FBD5E0?style=for-the-badge&logo=vercel&logoColor=A03A5C" alt="Vercel"></a>
+<a href="https://railway.com"><img src="https://img.shields.io/badge/Railway-FBD5E0?style=for-the-badge&logo=railway&logoColor=A03A5C" alt="Railway"></a>
 </p>
 
 <p align="center"><b>נתונים ולמידת מכונה</b><br>

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  3rd-year Computer Science student at HIT who enjoys building complete, working software - from database to deployment.<br>
+  3rd-year Computer Science student at HIT who enjoys building complete, working software, from database to deployment.<br>
   <b>Looking for a Software Engineering student position.</b>
 </p>
 
@@ -40,26 +40,26 @@
   <code>Next.js 15</code> · <code>React 19</code> · <code>TypeScript</code> · <code>PostgreSQL + PostGIS</code> · <code>Supabase</code> · <code>Mapbox GL</code> · <code>Tesseract OCR</code> · <code>Claude API</code> · <code>GitHub Actions</code>
 </p>
 
-<h2 align="center"><a href="https://divistay.onrender.com"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/logo.png" height="38" align="center" alt=""></a> DiviStay</h2>
+<h2 align="center"><a href="https://noyaadivi.github.io/kashuv/">🎧</a> Kashuv</h2>
 
 <p align="center">
-  <b>Book together, pay separately.</b> Group hotel booking with payment splitting,<br>
-  taken from UML and architecture to a live demo.
+  <b>Listens with you.</b> Live Hebrew transcription of Zoom calls and classes, an alert when your name is said,<br>
+  and smart lecture summaries, all running on your own computer with no cloud and no cost.
 </p>
 
 <p align="center">
-  <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.png" width="700" alt="DiviStay home page">
+  <a href="https://noyaadivi.github.io/kashuv/">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/images/Banner.jpg" width="700" alt="Kashuv screens">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://divistay.onrender.com"><img src="https://img.shields.io/badge/Open_live_demo-FFD5C9?style=for-the-badge&logo=googlechrome&logoColor=A8483A" alt="Open live demo"></a>
-  <a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://img.shields.io/badge/View_code-DAD5FF?style=for-the-badge&logo=github&logoColor=5548C8" alt="View code"></a>
+  <a href="https://noyaadivi.github.io/kashuv/"><img src="https://img.shields.io/badge/Open_live_demo-FFD5C9?style=for-the-badge&logo=googlechrome&logoColor=A8483A" alt="Open live demo"></a>
+  <a href="https://github.com/NoyaAdivi/kashuv"><img src="https://img.shields.io/badge/View_code-DAD5FF?style=for-the-badge&logo=github&logoColor=5548C8" alt="View code"></a>
 </p>
 
 <p align="center">
-  <code>Java 21</code> · <code>Spring Boot 3</code> · <code>Thymeleaf</code> · <code>JUnit 5</code> · <code>Docker</code> · <code>Render</code> · <code>UML</code> · <code>Design Patterns</code>
+  <code>Python</code> · <code>Flask</code> · <code>faster-whisper</code> · <code>ivrit.ai</code> · <code>Ollama (local LLM)</code> · <code>WASAPI</code> · <code>pytest</code>
 </p>
 
 <p align="center">
@@ -69,20 +69,20 @@
 
 <table>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-en.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>Split any bill per dish, with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/banner-en.svg" width="100%" alt="🏨 DiviStay"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay">🏨 DiviStay</a></b><br><sub>Group hotel booking with payment splitting</sub><br><code>Java · Spring Boot · JUnit · Docker</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-en.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens">📸 Okeat Lens</a></b><br><sub>Food recognition model for 101 dishes</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/kashuv"><img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/readme/banner-en.svg" width="100%" alt="🎧 Kashuv"></a><br><b><a href="https://github.com/NoyaAdivi/kashuv">🎧 Kashuv</a></b><br><sub>Live Zoom transcription and smart summaries, 100% local</sub><br><code>Python · Whisper · Ollama · Flask</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-en.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>Split any bill per dish, with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/LeakLens"><img src="https://raw.githubusercontent.com/NoyaAdivi/LeakLens/main/docs/readme/banner-en.svg" width="100%" alt="🔐 LeakLens"></a><br><b><a href="https://github.com/NoyaAdivi/LeakLens">🔐 LeakLens</a></b><br><sub>Privacy-first REST API for password checks</sub><br><code>Python · FastAPI · Docker</code></td>
-  </tr>
-  <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-en.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>Offline AI photo classifier with CLIP</sub><br><code>Python · OpenCLIP · PyTorch</code></td>
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-en.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>Finds exact and near-duplicate photos</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
   </tr>
   <tr valign="top">
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/FocusBloom"><img src="https://raw.githubusercontent.com/NoyaAdivi/FocusBloom/main/docs/readme/banner-en.svg" width="100%" alt="🌸 FocusBloom"></a><br><b><a href="https://github.com/NoyaAdivi/FocusBloom">🌸 FocusBloom</a></b><br><sub>Pomodoro Chrome extension that blocks distractions</sub><br><code>JavaScript · Manifest V3</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/nudgy-bot"><img src="https://raw.githubusercontent.com/NoyaAdivi/nudgy-bot/main/docs/readme/banner-en.svg" width="100%" alt="🔔 Nudgy"></a><br><b><a href="https://github.com/NoyaAdivi/nudgy-bot">🔔 Nudgy</a></b><br><sub>Bilingual Telegram bot for deadlines</sub><br><code>Python · Telegram API · SQLite</code></td>
+  </tr>
+  <tr valign="top">
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/photo-twins"><img src="https://raw.githubusercontent.com/NoyaAdivi/photo-twins/main/docs/readme/banner-en.svg" width="100%" alt="👯 Photo Twins"></a><br><b><a href="https://github.com/NoyaAdivi/photo-twins">👯 Photo Twins</a></b><br><sub>Finds exact and near-duplicate photos</sub><br><code>Python · Perceptual Hash · BK-tree</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/sort-photos"><img src="https://raw.githubusercontent.com/NoyaAdivi/sort-photos/main/docs/readme/banner-en.svg" width="100%" alt="🖼️ Sort Photos"></a><br><b><a href="https://github.com/NoyaAdivi/sort-photos">🖼️ Sort Photos</a></b><br><sub>Offline AI photo classifier with CLIP</sub><br><code>Python · OpenCLIP · PyTorch</code></td>
   </tr>
 </table>
 
@@ -110,12 +110,14 @@
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-DAD5FF?style=for-the-badge&logo=springboot&logoColor=5548C8" alt="Spring Boot"></a>
 <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-DAD5FF?style=for-the-badge&logo=fastapi&logoColor=5548C8" alt="FastAPI"></a>
 <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-DAD5FF?style=for-the-badge&logo=nodedotjs&logoColor=5548C8" alt="Node.js"></a>
+<a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-DAD5FF?style=for-the-badge&logo=flask&logoColor=5548C8" alt="Flask"></a>
 </p>
 
 <p align="center"><b>Databases &amp; Cloud</b><br>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-FBD5E0?style=for-the-badge&logo=postgresql&logoColor=A03A5C" alt="PostgreSQL"></a>
 <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-FBD5E0?style=for-the-badge&logo=supabase&logoColor=A03A5C" alt="Supabase"></a>
 <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-FBD5E0?style=for-the-badge&logo=vercel&logoColor=A03A5C" alt="Vercel"></a>
+<a href="https://railway.com"><img src="https://img.shields.io/badge/Railway-FBD5E0?style=for-the-badge&logo=railway&logoColor=A03A5C" alt="Railway"></a>
 </p>
 
 <p align="center"><b>Data &amp; ML</b><br>
