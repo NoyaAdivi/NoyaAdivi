@@ -40,26 +40,26 @@
   <code>Next.js 15</code> · <code>React 19</code> · <code>TypeScript</code> · <code>PostgreSQL + PostGIS</code> · <code>Supabase</code> · <code>Mapbox GL</code> · <code>Tesseract OCR</code> · <code>Claude API</code> · <code>GitHub Actions</code>
 </p>
 
-<h2 align="center"><a href="https://noyaadivi.github.io/kashuv/">🎧</a> Kashuv</h2>
+<h2 align="center"><a href="https://divistay.onrender.com">🏨</a> DiviStay</h2>
 
 <p align="center">
-  <b>Listens with you.</b> Live Hebrew transcription of Zoom calls and classes, an alert when your name is said,<br>
-  and smart lecture summaries, all running on your own computer with no cloud and no cost.
+  <b>Group trips, split fairly.</b> Group hotel booking where everyone pays their own share,<br>
+  equally, per room or custom, built with a layered architecture and classic design patterns.
 </p>
 
 <p align="center">
-  <a href="https://noyaadivi.github.io/kashuv/">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/images/Banner.jpg" width="700" alt="Kashuv screens">
+  <a href="https://divistay.onrender.com">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/showcase-en.png" width="700" alt="DiviStay live site">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://noyaadivi.github.io/kashuv/"><img src="https://img.shields.io/badge/Open_live_demo-FFD5C9?style=for-the-badge&logo=googlechrome&logoColor=A8483A" alt="Open live demo"></a>
-  <a href="https://github.com/NoyaAdivi/kashuv"><img src="https://img.shields.io/badge/View_code-DAD5FF?style=for-the-badge&logo=github&logoColor=5548C8" alt="View code"></a>
+  <a href="https://divistay.onrender.com"><img src="https://img.shields.io/badge/Open_live_site-FFD5C9?style=for-the-badge&logo=googlechrome&logoColor=A8483A" alt="Open live site"></a>
+  <a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://img.shields.io/badge/View_code-DAD5FF?style=for-the-badge&logo=github&logoColor=5548C8" alt="View code"></a>
 </p>
 
 <p align="center">
-  <code>Python</code> · <code>Flask</code> · <code>faster-whisper</code> · <code>ivrit.ai</code> · <code>Ollama (local LLM)</code> · <code>WASAPI</code> · <code>pytest</code>
+  <code>Java 21</code> · <code>Spring Boot</code> · <code>Thymeleaf</code> · <code>JUnit</code> · <code>Strategy &amp; Factory patterns</code> · <code>Docker</code> · <code>Render</code>
 </p>
 
 <p align="center">
@@ -69,11 +69,11 @@
 
 <table>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/banner-en.svg" width="100%" alt="🏨 DiviStay"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay">🏨 DiviStay</a></b><br><sub>Group hotel booking with payment splitting</sub><br><code>Java · Spring Boot · JUnit · Docker</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-en.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>Split any bill per dish, with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-en.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens">📸 Okeat Lens</a></b><br><sub>Food recognition model for 101 dishes</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
   </tr>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/evenly"><img src="https://raw.githubusercontent.com/NoyaAdivi/evenly/main/docs/readme/banner-en.svg" width="100%" alt="🧾 Evenly"></a><br><b><a href="https://github.com/NoyaAdivi/evenly">🧾 Evenly</a></b><br><sub>Split any bill per dish, with a full CI/CD pipeline</sub><br><code>Node.js · Docker · GitHub Actions</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/kashuv"><img src="https://raw.githubusercontent.com/NoyaAdivi/kashuv/main/docs/readme/banner-en.svg" width="100%" alt="🎧 Kashuv"></a><br><b><a href="https://github.com/NoyaAdivi/kashuv">🎧 Kashuv</a></b><br><sub>Live Hebrew transcription and summaries for Zoom, fully local</sub><br><code>Python · faster-whisper · Ollama</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/LeakLens"><img src="https://raw.githubusercontent.com/NoyaAdivi/LeakLens/main/docs/readme/banner-en.svg" width="100%" alt="🔐 LeakLens"></a><br><b><a href="https://github.com/NoyaAdivi/LeakLens">🔐 LeakLens</a></b><br><sub>Privacy-first REST API for password checks</sub><br><code>Python · FastAPI · Docker</code></td>
   </tr>
   <tr valign="top">
