@@ -71,7 +71,7 @@
 
 <table>
   <tr valign="top">
-    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/banner-he.svg" width="100%" alt="🏨 DiviStay"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay">🏨 DiviStay</a></b><br><sub>הזמנת מלון קבוצתית עם פיצול תשלום, Spring Boot</sub><br><code>Java · Spring Boot · JUnit · Docker</code></td>
+    <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/DiviStay"><img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/banner-he.svg" width="100%" alt="🏨 DiviStay"></a><br><b><a href="https://github.com/NoyaAdivi/DiviStay">🏨 DiviStay</a></b><br><sub>הזמנת מלון קבוצתית עם פיצול תשלום</sub><br><code>Java · Spring Boot · JUnit · Docker</code></td>
     <td width="50%" align="center"><a href="https://github.com/NoyaAdivi/okeat-lens"><img src="https://raw.githubusercontent.com/NoyaAdivi/okeat-lens/main/docs/readme/banner-he.svg" width="100%" alt="📸 Okeat Lens"></a><br><b><a href="https://github.com/NoyaAdivi/okeat-lens">📸 Okeat Lens</a></b><br><sub>מודל לזיהוי 101 מנות מתמונה</sub><br><code>Python · PyTorch · ONNX · FastAPI</code></td>
   </tr>
   <tr valign="top">
