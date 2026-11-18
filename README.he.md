@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/showcase-he.png" width="700" alt="האתר של DiviStay">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot-he.png" width="700" alt="האתר של DiviStay">
   </a>
 </p>
 

@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://divistay.onrender.com">
-    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/readme/showcase-en.png" width="700" alt="DiviStay live site">
+    <img src="https://raw.githubusercontent.com/NoyaAdivi/DiviStay/main/docs/screenshot.png" width="700" alt="DiviStay live site">
   </a>
 </p>
 
